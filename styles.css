@@ -29,7 +29,7 @@ h3{
 }
 
 header{
-    background-image: url("/resources/background-image.png");
+    background-image: url("./resources/background-image.png");
     background-size: 100vw;
     display: flex;
     justify-content: center;
